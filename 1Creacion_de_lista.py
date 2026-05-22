@@ -1,6 +1,6 @@
 # Creación de una lista con 5 países de Sudamérica
 
-list = ['colombia', 'ecuador', 'peru', 'venezuela', 'bolivia']
+list = ['colombia', 'ecuador', 'peru', 'venezuela', 'chile']
 
 # Imprimir cada país de la lista utilizando su índice
 
@@ -15,3 +15,4 @@ print(list[4])
 print(list[0])
 print(list[4])
 
+# fin de la creación de la lista 
